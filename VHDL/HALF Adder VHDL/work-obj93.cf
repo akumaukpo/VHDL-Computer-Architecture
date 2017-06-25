@@ -1,0 +1,7 @@
+v 4
+file . "ha_tb.vhdl" "bb74081f84e7e0d70df8715d82d364b0079d0877" "20170405003741.256":
+  entity ha_tb at 1( 0) + 0 on 13;
+  architecture test of ha_tb at 7( 78) + 0 on 14;
+file . "ha.vhdl" "5210088867edcf4fa19be15e91a1776d7fa4ae72" "20170405003349.433":
+  entity ha at 1( 0) + 0 on 11;
+  architecture behave of ha at 14( 175) + 0 on 12;
